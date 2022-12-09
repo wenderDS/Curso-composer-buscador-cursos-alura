@@ -1,0 +1,14 @@
+{
+	"name": "vendor_name/buscador-cursos-alura",
+	"description": "Projeto busca de cursos no site da Alura",
+	"minimum-stability": "stable",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "wender",
+			"email": "wender_lima@example.com"
+		}
+	],
+	"require": {
+	}
+}
